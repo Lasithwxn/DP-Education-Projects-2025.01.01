@@ -1,4 +1,4 @@
-var lion_bg = createSprite(300, 50);
+nvar lion_bg = createSprite(300, 50);
 lion_bg.setAnimation("lion_bg");
 lion_bg.scale = 0.1;
 var G_O = createSprite(350, 350);
